@@ -3,9 +3,15 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamires-ribeiro-cruz-a45577285/)
 
-![ThamiresRC GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresRC&show_icons=true&theme=tokyonight) 
-
+<hr>
+![ThamiresRC GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresRC&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRC&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+<hr>
+
+
+
+
 
 ## Tecnologias que eu uso no meu dia 🚀
 
@@ -17,9 +23,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />       
-  </div>
+  </div><br/>
 
 🌱Sempre em desenvolvimento 
 
-<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><br/>
