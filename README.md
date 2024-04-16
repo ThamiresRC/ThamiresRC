@@ -6,7 +6,6 @@
 
 ![ThamiresRC GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresRC&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRC&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 
 
 
@@ -28,3 +27,8 @@
 🌱Sempre em desenvolvimento 
 
 <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><br/>
+
+
+
+
+
