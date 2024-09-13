@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamires-ribeiro-cruz-a45577285/)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Thiago+Thomaz;Eu+tenho+20+anos+de+idade;Estou+morando+em+São+Paulo;+Estudo+Análise+Desenvolvimento+de+Sistemas+na+Fiap;Bem+vindo!+:%29)](https://git.io/typing-svg)
+
 ![ThamiresRC GitHub stats](https://github-readme-stats.vercel.app/api?username=ThamiresRC&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRC&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&)
 
